@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/app-rick-morty/static/css/main.4f3925cc.css",
+    "main.js": "/app-rick-morty/static/js/main.ae752856.js",
+    "static/js/787.f8b4461a.chunk.js": "/app-rick-morty/static/js/787.f8b4461a.chunk.js",
+    "static/media/footer.png": "/app-rick-morty/static/media/footer.797f4429de851afac1ff.png",
+    "static/media/header.png": "/app-rick-morty/static/media/header.ee0728d37d964ffaa011.png",
+    "static/media/header-right.png": "/app-rick-morty/static/media/header-right.5ca9ce5d93e1976ca6cb.png",
+    "static/media/episode.png": "/app-rick-morty/static/media/episode.b8e1ef32f250ffd48fdb.png",
+    "static/media/cucumber.png": "/app-rick-morty/static/media/cucumber.2850747d08a1dbdf6b36.png",
+    "static/media/random.png": "/app-rick-morty/static/media/random.bfbea4c1737ceee4f159.png",
+    "static/media/yoda.svg": "/app-rick-morty/static/media/yoda.a8ffa066f932ad9e4265cec9fa9e6f11.svg",
+    "static/media/notlike.svg": "/app-rick-morty/static/media/notlike.67e379bf4052856313802beda0fd2a15.svg",
+    "static/media/like.svg": "/app-rick-morty/static/media/like.0aad40167517087b1f71493abb70cd29.svg",
+    "static/media/delete.svg": "/app-rick-morty/static/media/delete.1fc4353853567b6148250d44bb4e1278.svg",
+    "index.html": "/app-rick-morty/index.html",
+    "main.4f3925cc.css.map": "/app-rick-morty/static/css/main.4f3925cc.css.map",
+    "main.ae752856.js.map": "/app-rick-morty/static/js/main.ae752856.js.map",
+    "787.f8b4461a.chunk.js.map": "/app-rick-morty/static/js/787.f8b4461a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f3925cc.css",
+    "static/js/main.ae752856.js"
+  ]
+}
